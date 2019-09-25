@@ -71,6 +71,9 @@ p {
   padding: 0 20%;
   font-weight: bolder;
 }
+#why-learn-img-main{
+  width: 80%
+}
 #question {
   font-style: normal;
   font-weight: bold;
