@@ -1,0 +1,161 @@
+p {
+  font-family: "Roboto", sans-serif;
+}
+#head-text{
+  font-size: 40px;
+  font-weight: 400;
+  color: red;
+}
+#head-text span{
+  font-weight: bolder;
+}
+#top-img {
+  width: 80%;
+  height: 500px;
+  left: 0px;
+  top: -18px;
+}
+#about-title {
+  font-family: "Raleway", sans-serif;
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 40px;
+  line-height: 35px;
+}
+#about-text {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 10%;
+}
+#second-about-text {
+  font-family: "Roboto", sans-serif !important;
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 40px;
+  padding: 6%;
+  text-align: center;
+}
+#get-book-btn {
+  width: 65%;
+  background: #f91414;
+  border-radius: 92px;
+  margin-left: 18%;
+}
+#get-book-btn2 {
+  width: 65%;
+  background: #f91414;
+  border-radius: 92px;
+  margin-left: 5%;
+  margin-bottom: 3%
+}
+#get-book-btn2 p{
+  font-size: 22px;
+  font-weight: bold;
+}
+#get-book-btn-text {
+  font-family: "Raleway", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 35px;
+  line-height: 29px;
+}
+#yellow-div{
+  background-color: #FFF73C;
+  margin: 0 -2% !important;
+}
+.why-learn-header{
+  font-family: "Roboto", sans-serif;
+  padding: 0 20%;
+  font-weight: bolder;
+}
+#question {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 29px;
+  text-align: center;
+  border: 2px solid black;
+}
+#question span:nth-of-type(1) {
+  padding: 10%;
+}
+.color-red{
+  color: #BE0606
+}
+
+
+.btn-align {
+  text-align: center;
+}
+
+#testimony img{
+  margin-left: 43%;
+}
+#testimony p{
+  font-size: 16px;
+  font-style: italic;
+  text-align: center;
+  color: rgb(88, 88, 88);
+}
+#testimony h4{
+  font-weight: bold;
+}
+
+.email-modal{
+  position: fixed;
+  background-color:  white;
+  left: 50%;
+  margin-left: -250px;
+  width: 500px;
+  top: 50px;
+  padding: 5%;
+  box-shadow: 1px 30px 100px black;
+}
+#email_modal{
+  transition: all 5s ease-in-out;
+}
+.email-modal input{
+  border: 1px solid rgb(17, 17, 17) !important;
+}
+.email-modal input::placeholder{
+  padding: 5%;
+}
+#close-btn{
+  position: absolute;
+  top: 5%;
+  left: 90%;
+  font-size: 18px;
+  font-weight: bold;
+  width: 30px;
+}
+#close-btn img{
+  width: 100%;
+}
+#close-btn:hover{
+  color: #BE0606;
+  font-weight: 20px;
+  cursor: pointer;
+}
+.modal-close{
+  display: none;
+}
+.modal-open{
+  display: block;
+}
+
+.left-align{
+  text-align: left;
+}
+.bold-text{
+  font-weight: bold;
+}
+.normal-font-size{
+  font-size: 35px;
+}
+
+.pad-10{
+  padding: 10%;
+}
